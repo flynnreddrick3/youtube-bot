@@ -1,5 +1,7 @@
 # 🚀 YTBoostEngine: Advanced YouTube View Bot
 
+# More info: https://bit.ly/4jYd7yj
+
 ## Table of Contents
 - [Overview](#overview)
 - [How It Works](#how-it-works)
